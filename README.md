@@ -58,5 +58,3 @@ A number is placed only if it satisfies all constraints:
 - **SFML library** installed
 - `arial.ttf` font file present in the project directory
 
----
-lsfml-system
